@@ -1,0 +1,12 @@
+#moe:ph4que 2022.02
+#pharmacophore 7 tag t value *
+scheme t Unified matchsize i 0 use_Hs i 1 abspos i 0 title t $ useRval i
+0 comment s $
+#feature 5 expr tt color ix x r y r z r r r ebits ix gbits ix m ix
+O2 f20d0d 23.2188578963275 6.46906838926213 -19.6676944647551 2.5 1 400
+a64cff Don2 f20df2 17.0216661533289 13.2423462448705 -18.7108877525821
+2.5 0 400 a64cff Don$mAcc ffcccc 17.5918047596479 10.5332446848407
+-18.2263276249141 3 1 400 a64cff Ani$mAcc df2f2 24.0993624898997
+6.56376408162991 -20.3105169071919 1.5 0 400 a64cff Ani$mAcc df2f2
+22.3383533027553 6.37437269689435 -19.0248720223183 1.5 0 400 a64cff
+#endpharmacophore
